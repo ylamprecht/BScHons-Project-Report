@@ -38,7 +38,7 @@ that identifies candidate host genetic variants associated with an increased ris
      - Counts variant occurrences by classification.
      - Combines cohort data to create eight output files summarising variant distribution across cohorts.
 
-These reseults allow the identification of variants of specific classifications present in unvaccinated individuals with severe COVID-19 but absent in other cohorts.
+These reseults allow for the identification of variants of specific classifications present in unvaccinated individuals with severe COVID-19 but absent in other cohorts.
 
 ## Requirements
 - **Python** for data refinement and cohort comparison.
