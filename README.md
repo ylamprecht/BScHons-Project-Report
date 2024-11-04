@@ -4,7 +4,7 @@
 This project aims to identify host genetic variants associated with severe COVID-19 in unvaccinated individuals from African populations, to determine how these may be influenced by vaccination. Through genetic screening, the findings could help prioritise certain individuals for vaccination based on their genetic risk factors. The specific objectives are:
 
 ### 1. Comparison of Variant Prioritisation Tools
-to evaluate the performance of eVai and Franklin classifying relevant genetic variants and thereafter select the most appropriate tool.
+to evaluate the performance of eVai and Franklin in classifying relevant genetic variants and thereafter select the most appropriate tool.
 
 #### Scripts:
 - **Data Cleaning**: `clean_eVai.py`, `clean_franklin.py`, and `clean_VIPR.py` scripts refine each tool's output to retain only relevant columns, facilitating subsequent analysis.
